@@ -1,19 +1,7 @@
 <div id="top">
 <h1 align="center">Recipen</h1>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/github/repo-size/Avinash905/Recipen?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/Avinash905/Recipen?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-closed-raw/Avinash905/Recipen?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/Avinash905/Recipen?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr/Avinash905/Recipen?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/Avinash905/Recipen?style=for-the-badge" />
-    <img src="https://img.shields.io/github/forks/Avinash905/Recipen?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/Avinash905/Recipen?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors-anon/Avinash905/Recipen?style=for-the-badge" />
-  </div>
-  <br>
+<
 
 <h3>📝 Description :</h3>
 Welcome to Recipen – a recipe website for food enthusiasts to explore, create, and share their culinary experiences. Indulge in a community-driven platform where food enthusiasts share their cherished recipes and captivating food blogs. Subscribe to the pro version to share your own recipes and to unlock a realm of taste, culture, and creativity.
@@ -53,7 +41,7 @@ Welcome to Recipen – a recipe website for food enthusiasts to explore, create,
 <li>Open terminal or command prompt on your local machine. Run the following command to clone the repository:</li>
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/DeevyanshuTiwari/Recipen--food-enthusiasts-website.git
 ```
 
 Replace **your-username** with your GitHub username and **your-repo** with the name of your repository.
@@ -92,62 +80,6 @@ nodemon index.js
 <hr/>
 
 <p align="right"><a href="#top">Back to Top</a></p>
-
-### Home page
-
-<img src="./client/src/assets/home.png" alt='home'/>
-
-### Sign up page
-
-<img src="./client/src/assets/signup.png" alt='signup'/>
-
-### Sign in page
-
-<img src="./client/src/assets/signin.png" alt='signin'/>
-
-### Profile page
-
-<img src="./client/src/assets/profile.png" alt='profile'/>
-
-### Contact page
-
-<img src="./client/src/assets/contact.png" alt='contact'/>
-
-### Recipes page
-
-<img src="./client/src/assets/recipes.png" alt='recipes'/>
-
-### Blogs page
-
-<img src="./client/src/assets/blogs.png" alt='blogs'/>
-
-### Single recipe page
-
-<img src="./client/src/assets/single-recipe.png" alt='single recipe'/>
-
-### Single blog page
-
-<img src="./client/src/assets/single-blog.png" alt='single blog'/>
-
-### Add recipe page
-
-<img src="./client/src/assets/add-recipe.png" alt='add recipe'/>
-
-### Add blog page
-
-<img src="./client/src/assets/add-blog.png" alt='add blog'/>
-
-### Admin users dashboard
-
-<img src="./client/src/assets/users.png" alt='dashboard users'/>
-
-### Admin recipes dashboard
-
-<img src="./client/src/assets/recipes-dashboard.png" alt='dashboard'/>
-
-### Admin blogs dashboard
-
-<img src="./client/src/assets/blog-dashboard.png" alt='dashboard'/>
 
 <hr/>
 
